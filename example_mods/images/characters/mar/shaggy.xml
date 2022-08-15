@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shaggy.png">
+<SubTexture name="shaggy right0000" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy right0001" x="1280" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy right0002" x="0" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy right0003" x="1280" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy right0004" x="0" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy right0005" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy right0006" x="2560" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy right0007" x="2560" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0000" x="2560" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0001" x="0" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0002" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0003" x="2560" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0004" x="0" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0005" x="1280" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0006" x="2560" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0007" x="3840" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy down0008" x="3840" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0000" x="3840" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0001" x="3840" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0002" x="3840" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0003" x="0" y="3600" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0004" x="1280" y="3600" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0005" x="2560" y="3600" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0006" x="3840" y="3600" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0007" x="0" y="4320" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0008" x="1280" y="4320" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy up0009" x="2560" y="4320" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0000" x="3840" y="4320" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0001" x="5120" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0002" x="5120" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0003" x="5120" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0004" x="5120" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0005" x="5120" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0006" x="5120" y="3600" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0007" x="5120" y="4320" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shaggy left0008" x="0" y="5040" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

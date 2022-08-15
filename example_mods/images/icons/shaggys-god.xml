@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shaggys-god.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon losing0000" x="4" y="4" width="239" height="288" frameX="-25" frameY="-8" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0001" x="247" y="4" width="270" height="293" frameX="-10" frameY="-9" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0002" x="521" y="4" width="273" height="292" frameX="-9" frameY="-11" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0003" x="798" y="4" width="259" height="292" frameX="-15" frameY="-10" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0004" x="1061" y="4" width="257" height="289" frameX="-16" frameY="-9" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0005" x="1322" y="4" width="243" height="296" frameX="-23" frameY="0" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0006" x="1569" y="4" width="251" height="288" frameX="-19" frameY="-6" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0007" x="4" y="304" width="257" height="292" frameX="-16" frameY="-1" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0008" x="265" y="304" width="286" height="292" frameX="-2" frameY="-6" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0009" x="555" y="304" width="290" height="292" frameX="0" frameY="-6" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0010" x="849" y="304" width="265" height="292" frameX="-12" frameY="-7" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0011" x="1118" y="304" width="264" height="288" frameX="-13" frameY="-7" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon losing0012" x="1386" y="304" width="279" height="297" frameX="-5" frameY="0" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0000" x="1669" y="304" width="240" height="288" frameX="-25" frameY="-8" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0001" x="4" y="605" width="272" height="292" frameX="-9" frameY="-9" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0002" x="280" y="605" width="274" height="292" frameX="-8" frameY="-11" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0003" x="558" y="605" width="259" height="292" frameX="-16" frameY="-10" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0004" x="821" y="605" width="257" height="288" frameX="-17" frameY="-10" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0005" x="1082" y="605" width="244" height="296" frameX="-23" frameY="0" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0006" x="1330" y="605" width="251" height="289" frameX="-20" frameY="-6" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0007" x="1585" y="605" width="257" height="293" frameX="-17" frameY="-1" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0008" x="4" y="905" width="286" height="292" frameX="-2" frameY="-6" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0009" x="294" y="905" width="290" height="292" frameX="0" frameY="-6" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0010" x="588" y="905" width="266" height="291" frameX="-11" frameY="-8" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0011" x="858" y="905" width="265" height="289" frameX="-12" frameY="-7" frameWidth="290" frameHeight="303"/>
+	<SubTexture name="icon normal0012" x="1127" y="905" width="280" height="297" frameX="-5" frameY="0" frameWidth="290" frameHeight="303"/>
+</TextureAtlas>

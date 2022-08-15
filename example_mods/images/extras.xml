@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="purple0000" x="882" y="992" width="154" height="157"/>
+	<SubTexture name="purple hold piece0000" x="1943" y="1300" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="368" y="771" width="50" height="64"/>
+	<SubTexture name="blue0000" x="10" y="948" width="157" height="154"/>
+	<SubTexture name="blue hold piece0000" x="347" y="1339" width="50" height="44"/>
+	<SubTexture name="blue hold end0000" x="928" y="851" width="50" height="64"/>
+	<SubTexture name="green0000" x="1239" y="956" width="157" height="154"/>
+	<SubTexture name="green hold piece0000" x="417" y="1339" width="50" height="44"/>
+	<SubTexture name="green hold end0000" x="1428" y="851" width="50" height="64"/>
+	<SubTexture name="red0000" x="1056" y="992" width="154" height="157"/>
+	<SubTexture name="red hold piece0000" x="682" y="1339" width="50" height="44"/>
+	<SubTexture name="red hold end0000" x="368" y="855" width="50" height="64"/>
+	<SubTexture name="arrowDOWN0000" x="1416" y="998" width="157" height="153"/>
+	<SubTexture name="arrowLEFT0000" x="187" y="1119" width="153" height="157"/>
+	<SubTexture name="arrowRIGHT0000" x="10" y="1122" width="153" height="157"/>
+	<SubTexture name="arrowSPACE0000" x="1239" y="767" width="169" height="169"/>
+	<SubTexture name="arrowUP0000" x="1593" y="998" width="157" height="153"/>
+	<SubTexture name="kill0000" x="1837" y="10" width="150" height="206"/>
+	<SubTexture name="live0000" x="368" y="995" width="149" height="162"/>
+</TextureAtlas>

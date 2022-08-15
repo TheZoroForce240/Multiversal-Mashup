@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="godblue god nightmare.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pshaggy_down0000" x="4" y="4" width="574" height="723" frameX="-30" frameY="-63" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0001" x="582" y="4" width="567" height="751" frameX="0" frameY="-3" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0002" x="1153" y="4" width="560" height="746" frameX="0" frameY="-7" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0003" x="1717" y="4" width="550" height="752" frameX="-6" frameY="-1" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0004" x="2271" y="4" width="547" height="737" frameX="-9" frameY="-16" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0005" x="2822" y="4" width="547" height="753" frameX="-9" frameY="0" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0006" x="3373" y="4" width="547" height="741" frameX="-9" frameY="-12" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0007" x="3924" y="4" width="547" height="743" frameX="-9" frameY="-10" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0008" x="4475" y="4" width="547" height="735" frameX="-9" frameY="-18" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_down0009" x="5026" y="4" width="547" height="733" frameX="-9" frameY="-20" frameWidth="604" frameHeight="786"/>
+	<SubTexture name="pshaggy_idle0000" x="5577" y="4" width="342" height="856" frameX="-11" frameY="-18" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0001" x="5923" y="4" width="350" height="852" frameX="-11" frameY="-22" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0002" x="6277" y="4" width="355" height="844" frameX="-3" frameY="-26" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0003" x="6636" y="4" width="328" height="847" frameX="-3" frameY="-23" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0004" x="6968" y="4" width="349" height="846" frameX="0" frameY="-23" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0005" x="7321" y="4" width="362" height="869" frameX="0" frameY="0" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0006" x="7687" y="4" width="334" height="854" frameX="0" frameY="-15" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0007" x="4" y="877" width="350" height="867" frameX="0" frameY="-2" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0008" x="358" y="877" width="345" height="854" frameX="0" frameY="-15" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_idle0009" x="707" y="877" width="339" height="855" frameX="0" frameY="-14" frameWidth="362" frameHeight="874"/>
+	<SubTexture name="pshaggy_left0000" x="1050" y="877" width="429" height="860" frameX="0" frameY="-24" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0001" x="1483" y="877" width="383" height="878" frameX="-54" frameY="-22" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0002" x="1870" y="877" width="388" height="876" frameX="-50" frameY="-26" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0003" x="2262" y="877" width="371" height="879" frameX="-62" frameY="-23" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0004" x="2637" y="877" width="368" height="879" frameX="-65" frameY="-23" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0005" x="3009" y="877" width="347" height="902" frameX="-86" frameY="0" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0006" x="3360" y="877" width="362" height="887" frameX="-71" frameY="-15" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0007" x="3726" y="877" width="369" height="900" frameX="-64" frameY="-2" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0008" x="4099" y="877" width="396" height="887" frameX="-37" frameY="-15" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_left0009" x="4499" y="877" width="401" height="888" frameX="-32" frameY="-14" frameWidth="438" frameHeight="902"/>
+	<SubTexture name="pshaggy_right0000" x="4904" y="877" width="517" height="817" frameX="-10" frameY="-55" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0001" x="5425" y="877" width="497" height="838" frameX="0" frameY="-47" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0002" x="5926" y="877" width="476" height="856" frameX="-3" frameY="-28" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0003" x="6406" y="877" width="418" height="849" frameX="-9" frameY="-35" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0004" x="6828" y="877" width="445" height="856" frameX="-9" frameY="-28" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0005" x="7277" y="877" width="446" height="883" frameX="-9" frameY="-1" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0006" x="7727" y="877" width="418" height="863" frameX="-9" frameY="-21" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0007" x="4" y="1783" width="432" height="882" frameX="-9" frameY="-2" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0008" x="440" y="1783" width="436" height="882" frameX="-9" frameY="-2" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_right0009" x="880" y="1783" width="431" height="884" frameX="-9" frameY="0" frameWidth="527" frameHeight="885"/>
+	<SubTexture name="pshaggy_up0000" x="1315" y="1783" width="506" height="948" frameX="0" frameY="0" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0001" x="1825" y="1783" width="443" height="935" frameX="-40" frameY="-69" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0002" x="2272" y="1783" width="507" height="918" frameX="-8" frameY="-47" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0003" x="2783" y="1783" width="513" height="909" frameX="-5" frameY="-62" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0004" x="3300" y="1783" width="513" height="923" frameX="-5" frameY="-48" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0005" x="3817" y="1783" width="513" height="915" frameX="-5" frameY="-74" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0006" x="4334" y="1783" width="513" height="916" frameX="-5" frameY="-73" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0007" x="4851" y="1783" width="513" height="941" frameX="-5" frameY="-76" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0008" x="5368" y="1783" width="513" height="947" frameX="-5" frameY="-75" frameWidth="518" frameHeight="1022"/>
+	<SubTexture name="pshaggy_up0009" x="5885" y="1783" width="513" height="963" frameX="-5" frameY="-59" frameWidth="518" frameHeight="1022"/>
+</TextureAtlas>

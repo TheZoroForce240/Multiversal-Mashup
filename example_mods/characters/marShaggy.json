@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shaggy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shaggy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shaggy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shaggy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shaggy up",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mar/shaggy",
+	"position": [
+		150,
+		-210
+	],
+	"healthicon": "godred",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

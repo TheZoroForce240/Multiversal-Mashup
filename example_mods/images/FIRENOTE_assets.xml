@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FIRENOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="4" y="4" width="155" height="194"/>
+	<SubTexture name="purple0000" x="163" y="4" width="194" height="155"/>
+	<SubTexture name="red0000" x="361" y="4" width="195" height="155"/>
+	<SubTexture name="white0000" x="560" y="4" width="176" height="166"/>
+	<SubTexture name="green0000" x="740" y="4" width="155" height="194"/>
+	<SubTexture name="violet0000" x="4" y="4" width="155" height="194"/>
+	<SubTexture name="yellow0000" x="163" y="4" width="194" height="155"/>
+	<SubTexture name="dark0000" x="361" y="4" width="195" height="155"/>
+	<SubTexture name="darkred0000" x="740" y="4" width="155" height="194"/>
+</TextureAtlas>

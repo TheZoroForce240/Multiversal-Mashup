@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Godspeed", "shaggys", [24, 164, 141]],
+		["Godspeed-old", "shaggys", [141, 24, 164]]
+	],
+
+	"weekCharacters": [
+		"rshaggy",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "outside",
+	"difficulties": "mania,canon",
+
+	"storyName": "Bonus match",
+	"weekBefore": "week4s",
+	"weekName": "week5s",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

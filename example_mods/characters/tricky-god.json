@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-270,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				181,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				240,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-152,
+				376
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tricky-god",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "shaggys",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		51,
+		114
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2
+}

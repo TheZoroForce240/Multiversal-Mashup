@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-110,
+				-241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-133,
+				427
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-219,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				230,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zephUCflipped",
+	"position": [
+		20,
+		-130
+	],
+	"healthicon": "zshaggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		72,
+		0
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

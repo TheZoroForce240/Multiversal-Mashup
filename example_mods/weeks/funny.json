@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["What I wanna know is where's the caveman", "shaggys", [24, 164, 141]]
+	],
+
+	"weekCharacters": [
+		"rshaggy",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "outside",
+	"difficulties": "Normal",
+
+	"storyName": "Bonus match",
+	"weekBefore": "week4s",
+	"weekName": "week5s",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

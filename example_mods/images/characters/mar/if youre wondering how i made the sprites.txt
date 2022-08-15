@@ -1,0 +1,7 @@
+how i did it:
+
+cut up mp4 into each animation
+export each animation as gif in a video editor, i used shotcut (make sure its 720p low quality and stuff)
+use this spritesheet maker that can import gifs (https://gamebanana.com/tools/7136)
+set up anims and export it
+now it should work in fnf

@@ -1,0 +1,4 @@
+regular voices are only bf
+opponent is used in game
+
+the others are only used in chart editor

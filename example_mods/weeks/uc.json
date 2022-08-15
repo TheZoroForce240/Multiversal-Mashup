@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["universal-catastrophy", "icon-zshaggy", [24, 164, 141]]	
+	],
+
+	"weekCharacters": [
+		"rshaggy",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "outside",
+	"difficulties": "mania,canon",
+
+	"storyName": "Bonus match",
+	"weekBefore": "week4s",
+	"weekName": "week5s",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

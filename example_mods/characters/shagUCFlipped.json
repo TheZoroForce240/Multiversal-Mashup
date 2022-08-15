@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-3,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/godShagUC",
+	"position": [
+		150,
+		-210
+	],
+	"healthicon": "godred",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
